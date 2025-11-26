@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/RaiyanNooryRady/JS-Practice/issues"
   },
-  "homepage": "https://github.com/RaiyanNooryRady/JS-Practice#readme"
+  "homepage": "https://github.com/RaiyanNooryRady/JS-Practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
